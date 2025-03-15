@@ -21,6 +21,8 @@ else if (country == "Japan" || country == "japan") {
     flag2.style.height = "500px";
     flag2.style.alignItems = "center";
     flag2.style.backgroundColor = "red";
+    parent.style.alignItems = "center";
+    parent.style.justifyContent = "center";
 }
 
 else if (country == "Senegal" || country == "senegal") {
